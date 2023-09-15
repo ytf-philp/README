@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-11T03:40:11.994Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="bUi0ImcNhydKsNxA1o2H" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-15T03:42:06.023Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="1t5a7hX66sHsR0GEiyMh" version="21.7.4" type="github">
   <diagram name="第 1 页" id="ug8OcABAm3F3g6Z-oZ7M">
-    <mxGraphModel dx="1877" dy="1703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2140" dy="1837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -772,7 +772,7 @@
         <mxCell id="6hLsBMOnTqpfsGLLgSxX-147" value="&lt;i&gt;&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 13px;&quot;&gt;L&lt;/font&gt;&lt;sub style=&quot;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;ce&lt;/font&gt;&lt;/sub&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="223.33" y="-495.09" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6hLsBMOnTqpfsGLLgSxX-148" value="&lt;b&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;词级别&lt;br&gt;强制对其&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#000000;" parent="1" vertex="1">
+        <mxCell id="6hLsBMOnTqpfsGLLgSxX-148" value="&lt;b&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;词级别&lt;br&gt;强制对齐&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="315.33000000000004" y="-660" width="74" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6hLsBMOnTqpfsGLLgSxX-149" value="&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; size=&quot;1&quot;&gt;&lt;b&gt;转录文本: &lt;/b&gt;&lt;u&gt;We had a good day&lt;/u&gt;&lt;/font&gt;&lt;/span&gt;&lt;u&gt;&amp;nbsp;!!&lt;/u&gt;&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#000000;" parent="1" vertex="1">
